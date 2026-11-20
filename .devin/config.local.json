@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(php artisan)",
+      "Exec(pdfinfo)",
+      "Exec(pdftotext)",
+      "Exec(sed)",
+      "Exec(true)",
+      "Exec(vendor/bin/pint)",
+      "Exec(curl)",
+      "Exec(mktemp)",
+      "Exec(grep)"
+    ]
+  }
+}
